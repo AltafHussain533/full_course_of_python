@@ -1,0 +1,6 @@
+print(2+6)
+print("Hello world")
+print("we are learning python with Aammar")
+print("Aammar")
+print(2+3)
+print("we are learning in codanics platform")
