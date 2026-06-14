@@ -1,0 +1,1 @@
+1. go to google and write sicikit-learn and then go to User Guide and  study full it
