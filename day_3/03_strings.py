@@ -1,0 +1,6 @@
+print("Hello world")
+print('we are learning python withe Dr Aammar on codanics')
+print("we are'learning'with Aammar")
+print('''I learning python with Dr Aammar Tufail.''')
+print("what's up?")
+print("2+3+6+9")
